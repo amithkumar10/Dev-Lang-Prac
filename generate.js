@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const COLORS = {
-  JS: "#f1e05a",
+  JS: "#fde047",
   TS: "#3178c6",
   PY: "#3572A5",
   EMPTY: "#2d333b"
