@@ -3,9 +3,11 @@ const fs = require("fs");
 const COLORS = {
   JS: "#f1e05a",
   TS: "#3178c6",
-  PY: "#3572A5",
-  EMPTY: "#2d333b"
+  PY: "#3572A5"
 };
+
+const EMPTY_FILL = "#ffffff";
+const EMPTY_STROKE = "#9be9a8"; // light green border
 
 const BOX = 14;
 const GAP = 4;
@@ -39,8 +41,11 @@ startDate.setDate(startDate.getDate() - startDate.getDay());
 
 const dates = getAllDates(startDate, endDate);
 
-// SVG build
-let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200">`;
+// SVG build (white background)
+let svg = `
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220">
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+`;
 
 // month labels
 let lastMonth = -1;
@@ -54,12 +59,12 @@ dates.forEach((date, i) => {
 
   const key = format(date);
   const lang = progress[key];
-  const fill = lang ? COLORS[lang] : COLORS.EMPTY;
+  const isFilled = !!lang;
 
   // month label
   if (date.getMonth() !== lastMonth && day === 0) {
     svg += `
-      <text x="${x}" y="20" fill="#adbac7" font-size="10">
+      <text x="${x}" y="20" fill="#444" font-size="10">
         ${date.toLocaleString("en-US", { month: "short" })}
       </text>
     `;
@@ -73,7 +78,9 @@ dates.forEach((date, i) => {
       width="${BOX}"
       height="${BOX}"
       rx="3"
-      fill="${fill}"
+      fill="${isFilled ? COLORS[lang] : EMPTY_FILL}"
+      stroke="${isFilled ? "none" : EMPTY_STROKE}"
+      stroke-width="1"
     />
   `;
 });
