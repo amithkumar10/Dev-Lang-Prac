@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220">
-    <text x="0" y="20" fill="#adbac7" font-size="12">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" style="background:#ffffff">
+    <text x="0" y="20" fill="#57606a" font-size="12">
       Jan
     </text>
   
@@ -9,7 +9,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -18,7 +20,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -27,7 +31,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -36,7 +42,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -45,7 +53,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -54,7 +64,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -63,7 +75,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -72,7 +86,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -81,7 +97,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -90,7 +108,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -99,7 +119,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -109,6 +131,8 @@
         height="14"
         rx="3"
         fill="#fde047"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -117,7 +141,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#fde047"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -126,7 +152,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -135,7 +163,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -144,7 +174,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -153,7 +185,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -162,7 +196,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -171,7 +207,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -180,7 +218,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -189,7 +229,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -198,7 +240,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -207,7 +251,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -216,7 +262,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -225,7 +273,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -234,7 +284,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -243,7 +295,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -252,7 +306,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -261,7 +317,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -270,7 +328,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -279,10 +339,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="106" y="20" fill="#adbac7" font-size="12">
+    <text x="106" y="20" fill="#57606a" font-size="12">
       Feb
     </text>
   
@@ -292,7 +354,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -301,7 +365,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -310,7 +376,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -319,7 +387,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -328,7 +398,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -337,7 +409,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -346,7 +420,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -355,7 +431,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -364,7 +442,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -373,7 +453,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -382,7 +464,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -391,7 +475,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -400,7 +486,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -409,7 +497,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -418,7 +508,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -427,7 +519,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -436,7 +530,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -445,7 +541,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -454,7 +552,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -463,7 +563,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -472,7 +574,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -481,7 +585,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -490,7 +596,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -499,7 +607,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -508,7 +618,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -517,7 +629,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -526,7 +640,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -535,10 +651,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="194" y="20" fill="#adbac7" font-size="12">
+    <text x="194" y="20" fill="#57606a" font-size="12">
       Mar
     </text>
   
@@ -548,7 +666,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -557,7 +677,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -566,7 +688,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -575,7 +699,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -584,7 +710,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -593,7 +721,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -602,7 +732,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -611,7 +743,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -620,7 +754,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -629,7 +765,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -638,7 +776,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -647,7 +787,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -656,7 +798,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -665,7 +809,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -674,7 +820,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -683,7 +831,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -692,7 +842,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -701,7 +853,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -710,7 +864,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -719,7 +875,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -728,7 +886,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -737,7 +897,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -746,7 +908,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -755,7 +919,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -764,7 +930,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -773,7 +941,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -782,7 +952,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -791,7 +963,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -800,7 +974,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -809,7 +985,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -818,10 +996,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="300" y="20" fill="#adbac7" font-size="12">
+    <text x="300" y="20" fill="#57606a" font-size="12">
       Apr
     </text>
   
@@ -831,7 +1011,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -840,7 +1022,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -849,7 +1033,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -858,7 +1044,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -867,7 +1055,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -876,7 +1066,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -885,7 +1077,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -894,7 +1088,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -903,7 +1099,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -912,7 +1110,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -921,7 +1121,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -930,7 +1132,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -939,7 +1143,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -948,7 +1154,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -957,7 +1165,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -966,7 +1176,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -975,7 +1187,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -984,7 +1198,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -993,7 +1209,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1002,7 +1220,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1011,7 +1231,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1020,7 +1242,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1029,7 +1253,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1038,7 +1264,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1047,7 +1275,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1056,7 +1286,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1065,7 +1297,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1074,7 +1308,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1083,7 +1319,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1092,10 +1330,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="406" y="20" fill="#adbac7" font-size="12">
+    <text x="406" y="20" fill="#57606a" font-size="12">
       May
     </text>
   
@@ -1105,7 +1345,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1114,7 +1356,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1123,7 +1367,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1132,7 +1378,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1141,7 +1389,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1150,7 +1400,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1159,7 +1411,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1168,7 +1422,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1177,7 +1433,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1186,7 +1444,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1195,7 +1455,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1204,7 +1466,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1213,7 +1477,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1222,7 +1488,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1231,7 +1499,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1240,7 +1510,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1249,7 +1521,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1258,7 +1532,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1267,7 +1543,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1276,7 +1554,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1285,7 +1565,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1294,7 +1576,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1303,7 +1587,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1312,7 +1598,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1321,7 +1609,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1330,7 +1620,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1339,7 +1631,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1348,7 +1642,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1357,7 +1653,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1366,7 +1664,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1375,10 +1675,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="512" y="20" fill="#adbac7" font-size="12">
+    <text x="512" y="20" fill="#57606a" font-size="12">
       Jun
     </text>
   
@@ -1388,7 +1690,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1397,7 +1701,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1406,7 +1712,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1415,7 +1723,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1424,7 +1734,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1433,7 +1745,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1442,7 +1756,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1451,7 +1767,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1460,7 +1778,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1469,7 +1789,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1478,7 +1800,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1487,7 +1811,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1496,7 +1822,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1505,7 +1833,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1514,7 +1844,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1523,7 +1855,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1532,7 +1866,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1541,7 +1877,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1550,7 +1888,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1559,7 +1899,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1568,7 +1910,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1577,7 +1921,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1586,7 +1932,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1595,7 +1943,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1604,7 +1954,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1613,7 +1965,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1622,7 +1976,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1631,7 +1987,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1640,7 +1998,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1649,10 +2009,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="618" y="20" fill="#adbac7" font-size="12">
+    <text x="618" y="20" fill="#57606a" font-size="12">
       Jul
     </text>
   
@@ -1662,7 +2024,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1671,7 +2035,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1680,7 +2046,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1689,7 +2057,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1698,7 +2068,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1707,7 +2079,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1716,7 +2090,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1725,7 +2101,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1734,7 +2112,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1743,7 +2123,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1752,7 +2134,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1761,7 +2145,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1770,7 +2156,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1779,7 +2167,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1788,7 +2178,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1797,7 +2189,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1806,7 +2200,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1815,7 +2211,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1824,7 +2222,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1833,7 +2233,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1842,7 +2244,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1851,7 +2255,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1860,7 +2266,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1869,7 +2277,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1878,7 +2288,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1887,7 +2299,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1896,7 +2310,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1905,7 +2321,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1914,7 +2332,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1923,7 +2343,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1932,10 +2354,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="724" y="20" fill="#adbac7" font-size="12">
+    <text x="724" y="20" fill="#57606a" font-size="12">
       Aug
     </text>
   
@@ -1945,7 +2369,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1954,7 +2380,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1963,7 +2391,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1972,7 +2402,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1981,7 +2413,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1990,7 +2424,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -1999,7 +2435,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2008,7 +2446,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2017,7 +2457,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2026,7 +2468,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2035,7 +2479,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2044,7 +2490,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2053,7 +2501,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2062,7 +2512,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2071,7 +2523,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2080,7 +2534,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2089,7 +2545,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2098,7 +2556,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2107,7 +2567,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2116,7 +2578,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2125,7 +2589,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2134,7 +2600,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2143,7 +2611,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2152,7 +2622,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2161,7 +2633,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2170,7 +2644,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2179,7 +2655,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2188,7 +2666,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2197,7 +2677,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2206,7 +2688,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2215,10 +2699,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="830" y="20" fill="#adbac7" font-size="12">
+    <text x="830" y="20" fill="#57606a" font-size="12">
       Sep
     </text>
   
@@ -2228,7 +2714,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2237,7 +2725,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2246,7 +2736,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2255,7 +2747,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2264,7 +2758,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2273,7 +2769,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2282,7 +2780,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2291,7 +2791,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2300,7 +2802,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2309,7 +2813,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2318,7 +2824,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2327,7 +2835,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2336,7 +2846,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2345,7 +2857,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2354,7 +2868,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2363,7 +2879,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2372,7 +2890,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2381,7 +2901,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2390,7 +2912,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2399,7 +2923,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2408,7 +2934,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2417,7 +2945,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2426,7 +2956,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2435,7 +2967,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2444,7 +2978,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2453,7 +2989,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2462,7 +3000,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2471,7 +3011,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2480,7 +3022,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2489,10 +3033,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="936" y="20" fill="#adbac7" font-size="12">
+    <text x="936" y="20" fill="#57606a" font-size="12">
       Oct
     </text>
   
@@ -2502,7 +3048,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2511,7 +3059,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2520,7 +3070,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2529,7 +3081,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2538,7 +3092,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2547,7 +3103,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2556,7 +3114,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2565,7 +3125,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2574,7 +3136,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2583,7 +3147,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2592,7 +3158,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2601,7 +3169,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2610,7 +3180,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2619,7 +3191,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2628,7 +3202,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2637,7 +3213,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2646,7 +3224,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2655,7 +3235,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2664,7 +3246,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2673,7 +3257,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2682,7 +3268,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2691,7 +3279,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2700,7 +3290,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2709,7 +3301,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2718,7 +3312,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2727,7 +3323,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2736,7 +3334,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2745,7 +3345,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2754,7 +3356,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2763,7 +3367,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2772,10 +3378,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="1042" y="20" fill="#adbac7" font-size="12">
+    <text x="1042" y="20" fill="#57606a" font-size="12">
       Nov
     </text>
   
@@ -2785,7 +3393,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2794,7 +3404,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2803,7 +3415,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2812,7 +3426,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2821,7 +3437,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2830,7 +3448,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2839,7 +3459,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2848,7 +3470,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2857,7 +3481,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2866,7 +3492,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2875,7 +3503,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2884,7 +3514,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2893,7 +3525,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2902,7 +3536,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2911,7 +3547,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2920,7 +3558,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2929,7 +3569,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2938,7 +3580,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2947,7 +3591,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2956,7 +3602,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2965,7 +3613,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2974,7 +3624,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2983,7 +3635,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -2992,7 +3646,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3001,7 +3657,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3010,7 +3668,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3019,7 +3679,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3028,7 +3690,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3037,7 +3701,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3046,10 +3712,12 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
-    <text x="1148" y="20" fill="#adbac7" font-size="12">
+    <text x="1148" y="20" fill="#57606a" font-size="12">
       Dec
     </text>
   
@@ -3059,7 +3727,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3068,7 +3738,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3077,7 +3749,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3086,7 +3760,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3095,7 +3771,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3104,7 +3782,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3113,7 +3793,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3122,7 +3804,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3131,7 +3815,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3140,7 +3826,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3149,7 +3837,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3158,7 +3848,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3167,7 +3859,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3176,7 +3870,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3185,7 +3881,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3194,7 +3892,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3203,7 +3903,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3212,7 +3914,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3221,7 +3925,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3230,7 +3936,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3239,7 +3947,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3248,7 +3958,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3257,7 +3969,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3266,7 +3980,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3275,7 +3991,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3284,7 +4002,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3293,7 +4013,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3302,7 +4024,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3311,7 +4035,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3320,7 +4046,9 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     
       <rect
@@ -3329,6 +4057,8 @@
         width="14"
         height="14"
         rx="3"
-        fill="#2d333b"
+        fill="#ffffff"
+        stroke="#9be9a8"
+        stroke-width="1"
       />
     </svg>
