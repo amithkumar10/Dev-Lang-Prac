@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" style="background:#0d1117">
-    <text x="0" y="20" fill="#ffff" font-size="12">
+    <text x="0" y="20" fill="#ffffff" font-size="12">
       Jan
     </text>
   
@@ -344,7 +344,7 @@
         stroke-width="1"
       />
     
-    <text x="106" y="20" fill="#ffff" font-size="12">
+    <text x="106" y="20" fill="#ffffff" font-size="12">
       Feb
     </text>
   
@@ -656,7 +656,7 @@
         stroke-width="1"
       />
     
-    <text x="194" y="20" fill="#ffff" font-size="12">
+    <text x="194" y="20" fill="#ffffff" font-size="12">
       Mar
     </text>
   
@@ -1001,7 +1001,7 @@
         stroke-width="1"
       />
     
-    <text x="300" y="20" fill="#ffff" font-size="12">
+    <text x="300" y="20" fill="#ffffff" font-size="12">
       Apr
     </text>
   
@@ -1335,7 +1335,7 @@
         stroke-width="1"
       />
     
-    <text x="406" y="20" fill="#ffff" font-size="12">
+    <text x="406" y="20" fill="#ffffff" font-size="12">
       May
     </text>
   
@@ -1680,7 +1680,7 @@
         stroke-width="1"
       />
     
-    <text x="512" y="20" fill="#ffff" font-size="12">
+    <text x="512" y="20" fill="#ffffff" font-size="12">
       Jun
     </text>
   
@@ -2014,7 +2014,7 @@
         stroke-width="1"
       />
     
-    <text x="618" y="20" fill="#ffff" font-size="12">
+    <text x="618" y="20" fill="#ffffff" font-size="12">
       Jul
     </text>
   
@@ -2359,7 +2359,7 @@
         stroke-width="1"
       />
     
-    <text x="724" y="20" fill="#ffff" font-size="12">
+    <text x="724" y="20" fill="#ffffff" font-size="12">
       Aug
     </text>
   
@@ -2704,7 +2704,7 @@
         stroke-width="1"
       />
     
-    <text x="830" y="20" fill="#ffff" font-size="12">
+    <text x="830" y="20" fill="#ffffff" font-size="12">
       Sep
     </text>
   
@@ -3038,7 +3038,7 @@
         stroke-width="1"
       />
     
-    <text x="936" y="20" fill="#ffff" font-size="12">
+    <text x="936" y="20" fill="#ffffff" font-size="12">
       Oct
     </text>
   
@@ -3383,7 +3383,7 @@
         stroke-width="1"
       />
     
-    <text x="1042" y="20" fill="#ffff" font-size="12">
+    <text x="1042" y="20" fill="#ffffff" font-size="12">
       Nov
     </text>
   
@@ -3717,7 +3717,7 @@
         stroke-width="1"
       />
     
-    <text x="1148" y="20" fill="#ffff" font-size="12">
+    <text x="1148" y="20" fill="#ffffff" font-size="12">
       Dec
     </text>
   
