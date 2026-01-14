@@ -5,7 +5,7 @@ const COLORS = {
   JS: "#fde047",      // yellow
   TS: "#3178c6",      // blue
   PY: "#3572A5",      // python blue
-  EMPTY: "#0d1117"   // empty box
+  EMPTY: "#050709"   // empty box
 };
 
 const BOX = 14;
@@ -51,7 +51,7 @@ const startYear = 2026;
 
   EMPTY: "#1d1b1b"   // empty box
   EMPTY: "#1d1b1b"   // empty box
-let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" style="background:#0d1117">`;
+let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="220" style="background:#050709">`;
 
 let xCursor = 0;
 
