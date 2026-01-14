@@ -1,7 +1,7 @@
 //DOM SELECTION
 
 console.log("Hello JS, DOM Practice");
-alert("Hello JS DOM Practice");
+alert("Hello JS DOM ");
 //Get ELement by ID
 const header = document.querySelector("#main-header");
 console.log(header);
