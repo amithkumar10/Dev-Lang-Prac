@@ -34,4 +34,3 @@ lii.textContent = "item 5";
 lii.classList.add("list-group-item");
 document.getElementById("items").appendChild(lii);
 
-
