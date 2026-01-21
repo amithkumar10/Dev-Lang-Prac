@@ -16,7 +16,7 @@ console.log(age + "" + "(var)");
 
 //MAIN ISSUE WITH VAR IS THAT IT ALLOWS REDECLARATION
 for (var i = 0; i < 3; i++) {}
-console.log(i); // 3 ✅
+console.log(i); // 3 
 //In the above example, the variable i is accessible outside the for loop, which can lead to unintended consequences if i is used elsewhere in the code.
 
 //let and const do not allow redeclaration

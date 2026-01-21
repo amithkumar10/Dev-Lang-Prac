@@ -9,6 +9,8 @@ const Companies = [
 
 const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
 
+
+
 //Convet to JSON
 
 const companiesJSON =  JSON.stringify(Companies);
@@ -28,6 +30,11 @@ console.log(typeof Companies);
 
 // #######################--NEXT TOPIC--#######################################
 
+// HERE WE ARE DISCUSSING HIGHER ORDER ARRAY METHODS LIKE 
+// forEach, filter, map, sort, reduce
+//some,every, find, findIndex, flatMap
+
+// NOTE: THESE METHODS DO NOT CHANGE THE ORIGINAL ARRAY, INSTEAD THEY RETURN A NEW ARRAY. ALSO, THEY TAKE A CALLBACK FUNCTION AS AN ARGUMENT, HENCE THEY ARE CALLED HIGHER ORDER METHODS.
 
 
 //forEach
@@ -78,7 +85,7 @@ console.log(canDrinkkk);
 
 //Using filter method  & arrow function
 
-const canDrinkk = ages.filter(age=> {
+const canDrinkk = ages.filter((age)=> {
     if(age >= 21){
         return true;
     }
@@ -87,7 +94,7 @@ const canDrinkk = ages.filter(age=> {
 console.log(canDrinkk);
 
 //One liner
-const canDrinkk1 = ages.filter(age => age >= 21);
+const canDrinkk1 = ages.filter((age) => age >= 21);
 console.log(canDrinkk1);
 
 // Practice Questions
@@ -100,17 +107,17 @@ console.log(canDrinkk1);
 
 
 
-//map
+//map - use it when you want to create a new array from an existing array with some modifications. Note that we do not modify the original array.
 
 const companyNames = Companies.map((company)=> company.name);
 console.log(companyNames);   
 
 const newCompanies =  Companies.filter((company)=> company.start > 1985);
 
-const newCompanyNames = newCompanies.map((company)=> company.name);
+const newCompanyNames = newCompanies.map((company)=> company.name); 
 console.log(newCompanyNames);
 
-const squaredAged = ages.map((age) => Math.pow(age, 2));
+const squaredAged = ages.map((age) => Math.pow(age, 2)); //new array from ages array with squared values
 console.log(squaredAged);
 
 
@@ -119,7 +126,7 @@ console.log(squaredAged);
 
 
 
-//sort
+//sort - accepts comparative callback function that tells how to sort the array elements.
 
 //ASCENDING ORDER
 const sortedCompanies = Companies.sort((c1, c2)=>(c1.start-c2.start));
@@ -148,5 +155,35 @@ ages.forEach((age) => {
 console.log(ageSum);    
 
 //Using reduce method
+// array.reduce((accumulator, currentValue, index, array) => {
+//   // accumulation logic
+// }, initialValue)
+
+
 const ageSum1 = ages.reduce((total, age) => total + age, 0);
 console.log(ageSum1);
+
+
+// #######################--NEXT TOPIC--#######################################
+
+//some - Checks if there is **any** adult.
+const hasAdult = ages.some((age) => age >= 18);
+console.log(hasAdult);
+
+// #######################--NEXT TOPIC--#######################################
+//every - ALL elements must match**
+const allAdults = ages.every((age) => age >= 18);
+console.log(allAdults); //Checks if **everyone** is an adult.
+
+
+// #######################--NEXT TOPIC--#######################################
+//find() → **Returns FIRST matching element**
+const retailCompany = Companies.find((c) => c.category === "Retail");
+console.log(retailCompany); // Finds the **first Retail company object**.
+
+
+// #######################--NEXT TOPIC--#######################################
+//findIndex - Index of FIRST match
+const oracleIndex = Companies.findIndex((c) => c.name === "Oracle"); //Returns the **index** of Oracle.
+console.log(oracleIndex);
+
