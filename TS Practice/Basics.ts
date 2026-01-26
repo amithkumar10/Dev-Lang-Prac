@@ -28,7 +28,7 @@ console.log(employee);
 
 // Union
 let pid: string | number = 22;
-console.log("PID is: "+ pid);
+console.log("PID is: "+ pid);   
 pid = "AB22";
 console.log("PID is now: "+ pid);
 
@@ -43,3 +43,4 @@ console.log("Direction Up: "+ Direction1.Up);
 console.log("Direction Down: "+ Direction1.Down);    
 console.log("Direction Left: "+ Direction1.Left);           
 console.log("Direction Right: "+ Direction1.Right);
+
