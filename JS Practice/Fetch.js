@@ -25,7 +25,7 @@ const fetchPokemon = async (pokemonName)=>{
     console.log(fullData);
     
         if (!response.ok) {
-             load.textContent="Pokemon not found";
+             load.textContent="Pokemon not found :(";
             throw new Error("Pokemon not found");
              
         }
