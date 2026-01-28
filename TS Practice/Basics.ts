@@ -44,3 +44,17 @@ console.log("Direction Down: "+ Direction1.Down);
 console.log("Direction Left: "+ Direction1.Left);           
 console.log("Direction Right: "+ Direction1.Right);
 
+//Objects
+
+type User = {
+    id: number,
+    name: string
+}
+
+const user:User = {
+    id:1,
+    name: "Amith"
+}
+
+// Type Assertion
+
