@@ -1,11 +1,11 @@
 //Local Storgage Example
 
-localStorage.setItem("Naam", "Amith"); //Setting item in local storage  
+localStorage.setItem("Name", "Amith"); //Setting item in local storage  
 
-console.log(localStorage.getItem("Naam")); //Getting item from local storage
+console.log(localStorage.getItem("Name")); //Getting item from local storage
 
-localStorage.removeItem("Naam"); //Removing item from local storage
-console.log(localStorage.getItem("Naam")); //Now it will return null as the item is removed
+localStorage.removeItem("Name"); //Removing item from local storage
+console.log(localStorage.getItem("Name")); //Now it will return null as the item is removed
 
 localStorage.clear(); //Clearing all items from local storage
 
